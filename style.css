@@ -1,0 +1,18 @@
+header{
+  text-align: center;
+  h1
+
+}
+nav{
+    height:20%;
+    background-color:DarkOrange;
+}
+nav li{
+    display:inline;
+}
+#h1_link{color:black;}
+.nav_list{
+  color:White;
+  font-weight:bold;
+  margin:30px;
+}
